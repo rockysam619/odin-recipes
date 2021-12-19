@@ -1,0 +1,14 @@
+.heading{
+    color: black;
+    background-color: chartreuse;
+}
+
+.heading2{
+    color: black;
+    background-color: crimson;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
